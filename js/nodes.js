@@ -1,4 +1,4 @@
-var regFill = "red";
+var regFill = "green";
 var highlightFill = "lightblue";
 
 var regFillText = "black";
